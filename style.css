@@ -1,0 +1,46 @@
+
+/*
+
+Element type selector is using the * 
+*/
+h1{
+    color:blue;
+    font-style: oblique;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 64%;
+    text-align: center;
+   
+}
+
+table
+{
+    border-width: 2px;
+    border-style: dashed;
+    border-radius: 5px;
+}
+.logo
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    background-image: url('background.jpg');
+ 
+}
+#professor-name
+{
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.personal-info{
+    text-decoration: underline;
+}
+
+.class-info{
+    background-color: cadetblue;
+}
+
+
